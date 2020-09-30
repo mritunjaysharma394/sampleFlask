@@ -1,5 +1,5 @@
 # sampleFlask
-Checking GitHub Actions with Azure Web Service via VS Code
+Checking GitHub Actions with Azure Web Service via VS Code.
 
 
 ## Initally the deployed site looked like:
